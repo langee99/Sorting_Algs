@@ -1,4 +1,4 @@
-# algs
+# Sorting Algs
 
 Simple library I wrote to implement some sorting algorithms while trying to learn crystal. Currently only supports bubble, selection and insertion sorts.
 
@@ -15,7 +15,7 @@ dependencies:
 ## Usage
 
 ```crystal
-require "algs"
+require "Sorting_Algs"
 ```
 
 ## Development
